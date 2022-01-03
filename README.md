@@ -1,4 +1,4 @@
-# SANDIN-IMAGE-PROCESSOR
+# SANDIN-IMAGE-PROCESSOR SAIC
 Repository for information regarding the Art and Technology Studies Sandin Image Processor at the School of the Art Institute of Chicago
 
 ## GENERAL NOTES
